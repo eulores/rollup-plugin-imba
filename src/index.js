@@ -1,5 +1,3 @@
-// rollup-plugin-imba written 2020 by eulores and released under MIT license
-
 import { createFilter } from '@rollup/pluginutils';
 import { extname, relative, basename}  from 'path';
 import { compile } from 'imba/dist/compiler.js';
