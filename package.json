@@ -1,6 +1,6 @@
 {
   "name": "@eulores/rollup-plugin-imba",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compile Imba source code with Rollup",
   "author": "eulores <eulores@gmail.com>",
   "license": "MIT",
