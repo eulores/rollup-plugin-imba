@@ -1,4 +1,5 @@
-# Unmaintained: this early experiment is now closed, as it is no longer up to date with developments at https://imba.io/
+## Unmaintained
+This early experiment is now closed, as it is no longer up to date with developments at https://imba.io/
 
 # rollup-plugin-imba
 
