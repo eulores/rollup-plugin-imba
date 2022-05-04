@@ -1,3 +1,5 @@
+# Unmaintained: this early experiment is now closed, as it is no longer up to date with developments at https://imba.io/
+
 # rollup-plugin-imba
 
 Use the [Imba compiler](https://v2.imba.io/) (v2) to build `*.imba` files from source using [Rollup](https://rollupjs.org/).
